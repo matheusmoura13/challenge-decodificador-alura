@@ -55,7 +55,7 @@ textarea:focus {
     height: 580px;
     margin-top: 20px;
     margin-left: 90px;
-    background-image: url(/imagens/boneco.png);
+    background-image: url(imagens/boneco.png);
     background-repeat: no-repeat;
     background-position: center 1em, left top ;
     background-color: #fff;
